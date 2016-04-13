@@ -21,6 +21,9 @@ p | e1 | d | r | t
 23 | 7 | 11 | 13 | 20
 23 | 11 | 6 | 3 | 10
 11 | 2 | 8 | 9 | 5
+7243 | 7215 | 82 | 56 | 55
+1619 | 1508 | 65 | 191 | 76
+4397 | 608 | 23 | 173 | 22
 
 ## Key Generating
 
@@ -41,8 +44,6 @@ d => user's input
 > C1 => (e1^r) mod p
 
 > C2 => ((e2^r) * t) mod p
-
-3. Send Ciphertext thru network
 
 ## Decryption
 
