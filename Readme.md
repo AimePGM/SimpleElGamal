@@ -30,7 +30,9 @@ p | e1 | d | r | t
 > public key = (e1,e2,p)
 
 p => user's input
+
 e1 => user's input
+
 e2 => (e1^d) mod p
 
 > private key = (d)
